@@ -1,0 +1,4 @@
+depth,method,rmse,pearson,cluster_ari,cluster_nmi,marker_spearman,marker_top50_overlap,deg_top100_overlap,logfc_pearson,logfc_spearman,deg_direction_consistency,module_score_pearson
+0.25,knn_supervised,0.603,0.728,0.729,0.77,0.913,0.895,0.53,0.962,0.923,1.0,0.959
+0.5,knn_supervised,0.583,0.748,0.731,0.771,0.927,0.892,0.57,0.98,0.943,1.0,0.97
+0.75,knn_supervised,0.576,0.754,0.75,0.796,0.93,0.898,0.59,0.984,0.948,1.0,0.973

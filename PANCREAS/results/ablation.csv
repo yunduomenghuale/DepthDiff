@@ -1,0 +1,6 @@
+parameterization,schedule,inference,rmse,pearson,deg,logfc_s
+x0,cosine,"reverse(50, N=5)",0.421,0.876,0.843,0.971
+x0,cosine,single-step,0.403,0.887,0.85,0.979
+epsilon,cosine,"reverse(50, N=5)",7786643279489707.0,-0.006,0.08,-0.08
+x0,linear,"reverse(50, N=5)",1.162,0.52,0.767,0.84
+epsilon,linear,"reverse(50, N=5)",65.372,-0.054,0.23,0.162

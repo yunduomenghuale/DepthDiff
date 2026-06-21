@@ -1,0 +1,4 @@
+depth,method,rmse,pearson,cluster_ari,cluster_nmi,marker_spearman,marker_top50_overlap,deg_top100_overlap,logfc_pearson,logfc_spearman,deg_direction_consistency,module_score_pearson
+0.25,alra,2.641,0.308,0.451,0.657,0.527,0.363,0.13,0.535,0.627,0.99,0.893
+0.5,alra,2.56,0.324,0.467,0.695,0.582,0.363,0.11,0.562,0.727,1.0,0.909
+0.75,alra,2.531,0.328,0.508,0.689,0.618,0.366,0.16,0.567,0.765,1.0,0.916

@@ -1,0 +1,6 @@
+matrix,depth,n_cells,n_genes,mean_library_size,median_library_size,mean_detected_genes,median_detected_genes,zero_fraction,target_umi_per_cell
+full_filtered_counts,1.0,67028,17652,1366.5676,1297.0,543.9225,526.0,0.9692,
+hvg_high_depth,1.0,67028,2000,121.568,101.0,83.6785,78.0,0.9582,
+depth_25,0.25,67028,2000,24.9942,25.0,22.7366,23.0,0.9886,25.0
+depth_50,0.5,67028,2000,49.4458,50.0,42.0906,43.0,0.979,50.0
+depth_75,0.75,67028,2000,71.596,76.0,57.7683,60.0,0.9711,76.0

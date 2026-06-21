@@ -1,0 +1,4 @@
+depth,method,rmse,pearson,cluster_ari,cluster_nmi,marker_spearman,marker_top50_overlap,deg_top100_overlap,logfc_pearson,logfc_spearman,deg_direction_consistency,module_score_pearson
+0.25,magic,0.605,0.743,0.892,0.891,0.932,0.832,0.55,0.944,0.943,1.0,0.974
+0.5,magic,0.572,0.765,0.789,0.855,0.947,0.863,0.54,0.973,0.958,1.0,0.98
+0.75,magic,0.563,0.771,0.909,0.913,0.954,0.867,0.54,0.982,0.967,1.0,0.982

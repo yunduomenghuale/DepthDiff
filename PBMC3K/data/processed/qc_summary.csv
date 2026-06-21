@@ -1,0 +1,3 @@
+stage,n_cells,median_total_counts,median_detected_genes,mean_mito_fraction,median_mito_fraction
+before_qc,2700,2197.0,817.0,0.0222,0.0203
+after_qc,2682,2192.5,816.0,0.022,0.0203
