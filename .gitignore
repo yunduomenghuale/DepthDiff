@@ -29,6 +29,14 @@ paper_figures/
 *.pdf
 *.docx
 
+# Paper figure/table/statistics generation (kept local, not part of public code repo)
+make_paper_figures.py
+paper_tables.py
+paper_tables_compact.py
+paper_stats.py
+paper_stats.csv
+figure_data.py
+
 # OS / editor
 .DS_Store
 Thumbs.db
