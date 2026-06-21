@@ -20,6 +20,15 @@ citeseq_data/
 *.csv.gz
 *.mtx
 
+# Manuscript and figures (kept local, not part of the public code repo)
+paper_output/
+paper_figures/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+
 # OS / editor
 .DS_Store
 Thumbs.db
