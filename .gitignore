@@ -23,6 +23,8 @@ citeseq_data/
 # Manuscript and figures (kept local, not part of the public code repo)
 paper_output/
 paper_figures/
+英文.md
+*稿*.md
 *.png
 *.jpg
 *.jpeg
