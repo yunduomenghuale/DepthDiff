@@ -90,7 +90,3 @@ results can be inspected without rerunning the pipeline.
 
 ---
 
-## Citation
-
-If you use DepthDiff, please cite the associated paper (details to be added upon
-publication).
